@@ -12,7 +12,7 @@
 ## 🐍 Python: Funciones
 1. [Desafío 1](./PythonFunciones/Desafio__1.ipynb)
 2. [Desafío 2](./PythonFunciones/Desafio__2.ipynb)
-3. *(Pendiente)*
-4. *(Pendiente)*
+3. 
+4. 
 
 ---
