@@ -12,7 +12,8 @@
 ## 🐍 Python: Funciones
 1. [Desafío 1](./PythonFunciones/Desafio__1.ipynb)
 2. [Desafío 2](./PythonFunciones/Desafio__2.ipynb)
-3. 
-4. 
+3. [Desafío 3](./PythonFunciones/Desafio__3.ipynb)
+4. [Desafío 4](./PythonFunciones/Desafio__4.ipynb)
+
 
 ---
