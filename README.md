@@ -20,10 +20,10 @@
 ---
 ## Modelo de Base de Datos
 
-1. ssss
-2. ssss
-3. ssss
-4. ssss
+1. s
+2. s
+3. s
+4. s
 ---
 ## Modelado de Bases de Datos Relacionales
 1. sss
