@@ -26,7 +26,7 @@
 4. s
 ---
 ## Modelado de Bases de Datos Relacionales
-1. sss
-2. sss
-3. sss
-4. sss
+1. s
+2. s
+3. s
+4. s
