@@ -22,11 +22,10 @@
 
 1. s
 2. s
-3. s
-4. s
+
 ---
 ## Modelado de Bases de Datos Relacionales
 1. s
 2. s
-3. s
-4. s
+
+
