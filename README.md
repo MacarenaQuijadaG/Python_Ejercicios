@@ -16,16 +16,5 @@
 
 ---
 
-## 🎲 Challenge Alura Store
----
-## Modelo de Base de Datos
-
-1. 
-2. 
-
----
-## Modelado de Bases de Datos Relacionales
-1. 
-2. 
 
 
